@@ -5,5 +5,5 @@ obj
 # mstest test results
 TestResults
 
-*.exe
-*.swp
+*/*.exe
+*/*.swp
