@@ -1,7 +1,7 @@
 using System;
 using Gtk;
 
-class Hello : Form
+class Hello
 {
   public static void Main()
   {
